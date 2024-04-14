@@ -1,4 +1,6 @@
-https://www.python.org/downloads/
+Instructions on how to install this application:
+
+https://www.python.org/downloads
 pip3 install deap
 pip3 install numpy
 pip3 install pandas
