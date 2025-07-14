@@ -52,11 +52,6 @@ A Python-based GUI application that uses a genetic algorithm (NSGA-II) to genera
 
 3. Install required packages:
 
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   Or install manually:
 
    ```bash
    pip install numpy pandas deap boto3
