@@ -133,7 +133,6 @@ These values can be adjusted directly in the source code.
 
 ## Dependencies
 
-Listed in `requirements.txt`:
 
 ```
 numpy
