@@ -15,7 +15,6 @@ A Python-based GUI application that uses a genetic algorithm (NSGA-II) to genera
 - [Configuration](#configuration)
 - [Code Structure](#code-structure)
 - [Dependencies](#dependencies)
-- [License](#license)
 
 ## Features
 
